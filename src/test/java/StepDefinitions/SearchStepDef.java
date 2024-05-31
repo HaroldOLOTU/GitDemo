@@ -6,8 +6,8 @@ public class SearchStepDef {
 
 
 
-    @Given("I am a job seeker on NHS website")
-    public void i_am_a_job_seeker_on_nhs_website() {
+    @Given("As a job seeker on the NHS website")
+    public void i_am_a_job_seeker_on_the_nhs_website() {
 
     }
 
