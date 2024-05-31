@@ -3,7 +3,7 @@ Feature: Job Search Functionality
   I want to search a job with my preference
   So that I can get recently posted job results
 
-
+  @smokeTest
   Scenario: Job searching
     Given I am a job seeker on NHS website
     When I put my preferences into the search text box
