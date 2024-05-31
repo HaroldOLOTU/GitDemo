@@ -16,8 +16,8 @@ public class SearchStepDef {
 
     }
 
-    @Then("I should get a list of jobs which matches my preferences")
-    public void i_should_get_a_list_of_jobs_which_matches_my_preferences() {
+    @Then("I should get a list of jobs that match my preferences")
+    public void i_should_get_a_list_of_jobs_that_match_my_preferences() {
 
     }
 
